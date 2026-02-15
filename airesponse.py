@@ -5,7 +5,7 @@ from google import genai
 
 #----------------------------------------------------api key 
 
-api_key = "AIzaSyCiXLlGjyCoV1Vr44FmHRAPpUgSfi8Jb-E"
+api_key = "my api key"
 
 #----------------------------------------------------access gemini client
 
@@ -104,5 +104,6 @@ clear_btn=tk.Button(
     
 )
 clear_btn.pack(side=tk.LEFT,padx=5)
+
 
 root.mainloop()
